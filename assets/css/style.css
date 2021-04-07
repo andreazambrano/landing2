@@ -521,7 +521,7 @@ img {
 .bg-shape {
     position: absolute;
     height: 190%;
-    width: 100%;
+    width: 110%;
     display: block;
     border-radius: 120px;
     background: linear-gradient(-47deg, #044c74 0%, #3c8db2 100%);
