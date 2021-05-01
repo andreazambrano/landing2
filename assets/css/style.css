@@ -151,7 +151,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #F74B54;
+    color: #36aca3;
 }
 
 a,
@@ -234,11 +234,11 @@ img {
 }
 
 .color-primary {
-    color: #0167da;
+    color: #226f96;
 }
 
 .text-primary {
-    color: #F74B54 !important;
+    color: #36aca3 !important;
 }
 
 .text-secondary {
@@ -252,7 +252,7 @@ img {
 .featured-icon > span::before {
     font-size: 3rem;
     line-height: 1;
-    color: #F74B54;
+    color: #013b61;
     margin: 0;
 }
 
@@ -295,7 +295,7 @@ img {
     content: '';
     height: 2px;
     width: 70px;
-    background: #f74b54;
+    background: #013b61;
     border-radius: 8px;
     bottom: -15px;
     left: 50%;
@@ -360,8 +360,8 @@ img {
 .btn.prolend-primary {
     display: inline-block;
     padding: 16px 25px;
-    border: 2px solid #F74B54;
-    color: #F74B54;
+    border: 2px solid #36aca3;
+    color: #36aca3;
     vertical-align: middle;
     -webkit-transform: perspective(1px) translateZ(0);
     transform: perspective(1px) translateZ(0);
@@ -381,7 +381,7 @@ img {
     left: 0;
     right: 0;
     bottom: 0;
-    background: #F74B54;
+    background: #36aca3;
     -webkit-transform: scaleX(0);
     transform: scaleX(0);
     -webkit-transform-origin: 0 50%;
@@ -395,12 +395,12 @@ img {
 }
 
 .btn.prolend-primary.style-two {
-    border: 2px solid #0167da;
-    color: #0167da;
+    border: 2px solid #226f96;
+    color: #226f96;
 }
 
 .btn.prolend-primary.style-two::before {
-    background: #0167da;
+    background: #226f96;
 }
 
 .btn.prolend-primary.style-three {
@@ -430,11 +430,11 @@ img {
 .btn.prolend-primary.style-three:hover,
 .btn.prolend-primary.style-three:focus,
 .btn.prolend-primary.style-three:active {
-    color: #F74B54;
+    color: #013b61;
 }
 
 .btn.prolend-btn {
-    color: #F74B54;
+    color: #013b61;
     padding: 0;
 }
 
@@ -444,7 +444,7 @@ img {
     height: 2px;
     width: 100%;
     border-radius: 4px;
-    background-color: #F74B54;
+    background-color: #013b61;
     top: calc(100% + 3px);
     visibility: hidden;
     opacity: 0;
@@ -575,7 +575,7 @@ img {
 }
 
 .bg-overlay::after {
-    background: linear-gradient(-47deg, #F956CB 0%, #F74B54 100%);
+    background: linear-gradient(-47deg, #F956CB 0%, #013b61 100%);
     opacity: 0.94;
     z-index: -1;
 }
@@ -1081,7 +1081,7 @@ img {
 
 .play-icon {
     font-size: 22px;
-    color: #F74B54;
+    color: #013b61;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -1345,7 +1345,7 @@ img {
 .product-card {
     position: relative;
     border: 0;
-    border-bottom: 4px solid #F74B54;
+    border-bottom: 4px solid #013b61;
     box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.1);
 }
 
@@ -1387,7 +1387,7 @@ img {
     display: inline-block;
     height: 35px;
     width: 35px;
-    background-color: #F74B54 !important;
+    background-color: #013b61 !important;
     color: #fff !important;
     border-radius: 4px;
     outline: none;
@@ -1437,12 +1437,12 @@ img {
     display: inline-block;
     height: 35px;
     width: 35px;
-    background-color: #F74B54 !important;
+    background-color: #013b61 !important;
     color: #fff !important;
     border-radius: 4px;
     outline: none;
     margin: 5px;
-    box-shadow: 0 1px 5px rgba(247,75,84,1);
+    box-shadow: 0 1px 5px #16ebcb;
 }
 
 @media (max-width: 991px) {
@@ -1558,7 +1558,7 @@ img {
 .subscribe-form button {
     height: 60px;
     border-radius: 8px;
-    background: #F74B54 !important;
+    background: #013b61 !important;
 }
 
 /* ******************************
@@ -1745,7 +1745,7 @@ img {
 }
 
 .widget-items li a.active {
-    color: #F74B54;
+    color: #013b61;
 }
 
 .widget-items li a::before {
@@ -1771,7 +1771,7 @@ img {
 .widget-items li a:focus::before,
 .widget-items li a.active::before {
     width: 2px;
-    background-color: #F74B54;
+    background-color: #013b61;
 }
 
 .widget-items li a span {
@@ -1909,7 +1909,7 @@ img {
 .comments-content > h5 > a:last-child {
     font-size: 14px;
     font-weight: 500;
-    color: #F74B54;
+    color: #013b61;
 }
 
 .contact-box.comment-box {
@@ -1941,7 +1941,7 @@ img {
     line-height: 45px;
     font-size: 18px;
     text-align: center;
-    background-color: #F74B54;
+    background-color: #013b61;
     color: #fff;
     border-radius: 4px;
 }
@@ -1985,7 +1985,7 @@ img {
 .contact-box button {
     height: 60px;
     border-radius: 8px;
-    background: #F74B54 !important;
+    background: #013b61 !important;
 }
 
 /*Map Area*/
